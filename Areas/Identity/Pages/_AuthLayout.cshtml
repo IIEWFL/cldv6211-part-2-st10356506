@@ -1,0 +1,58 @@
+﻿@{
+	//links the -authlayout page to the main _layout page
+	Layout = "/Views/Shared/_Layout.cshtml";
+//_authlayout is a separate layout page just for the login and register pages 
+//https://www.youtube.com/watch?v=wzaoQiS_9dI&t=174s
+}
+@section Styles {
+	<style>
+		/* https://getbootstrap.com/docs/5.0/components/navs-tabs/ */
+
+		body {
+            text-align: center;
+			background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQxOS1taW50eS0wMi1sZWFmXzEuanBn.jpg");
+			background-size: cover;
+			background-position: center;
+		}
+		  .login-logout-card {
+            margin-top: 50px;
+		
+        }
+
+        .card-header-tabs .nav-item .nav-link {
+            cursor: pointer;
+        }
+	</style>
+}
+@* https://www.youtube.com/watch?v=wzaoQiS_9dI&t=174s *@
+<div class ="row justify-content-center">
+	<div class=" col-5 mt-5">
+		<div class="card login-logout-card">
+		  <div class=" card-header">
+			  <ul class=" nav nav-tabs card-header-tabs">
+				  <li class=" nav-item">
+					  <a class="nav-link" href="/Identity/Account/Login">
+						  Log In
+						  </a>
+					  </li>
+					<li class=" nav-item">
+						<a class="nav-link" href="/Identity/Account/Register">
+							Register
+						</a>
+					</li>
+			  </ul>
+		</div>
+		<div class=" card-body">
+			<div class=" row justify-content-center">
+				<div class=" col-10 my-4">
+					@RenderBody()
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	@await RenderSectionAsync("Scripts", required: false)
+}

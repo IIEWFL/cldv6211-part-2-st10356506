@@ -1,0 +1,180 @@
+﻿
+@model IEnumerable< AuthSystem.Models.Item>
+<!--https://youtu.be/CQZxeoQeo5c-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Page</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap">
+  <style>
+      /*create a style tag to style the elements of the web page*/
+    body {
+            /*https://www.w3schools.com/html/html_css.asp*/
+      font-family: 'Times New Roman', serif;
+      text-align: center; /* Align all the text to the center of the page*/ 
+     /*  set the background image */
+     /*https://www.w3schools.com/html/html_images_background.asp*/
+      background-image: url("https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?cs=srgb&dl=pexels-oleksandr-tiupa-53788-192136.jpg&fm=jpg");
+      background-size: cover; /*background image should cover the whole page */
+      background-position: center; /* background image should be generated at the center of the page */
+    }
+
+    .title {
+      /*properies for the title text */
+      font-size: 100px;
+      color: cornflowerblue;
+      font-family: 'Pacifico', sans-serif;
+      text-shadow: 2px 2px 4px #000000;
+    }
+
+    .services {
+     /*properies for the artGallery text */
+      color: white;
+      font-size: 30px;
+      text-shadow: 2px 2px 4px #000000;
+      font-family: 'Times New Roman', serif;
+    }
+
+    .artGallery {
+            /*https://www.w3schools.com/html/html_css.asp*/
+      color: cornflowerblue;
+      font-size: 40px;
+      text-align: left;
+      text-shadow: 2px 2px 4px #000000;
+      font-family: 'Berlin Sans FB', serif;
+    }
+
+
+        .product-card {
+            /*style the product card where the proucts will be displayed */
+            /*https://www.w3schools.com/html/html_css.asp*/
+            background-color: rgba(85, 102, 36, 0.5); 
+            color: mistyrose;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 10px;
+            display: inline-block;
+            text-align: left;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        }
+
+
+        .advertise-button-link {
+            /*style the advertise button*/
+            /*https://www.w3schools.com/html/html_css.asp*/
+            text-align: left;
+            background-color: transparent;
+            color: white;
+            border: 1px solid white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .advertise-button-link:hover {
+        /*https://www.w3schools.com/html/html_css.asp*/
+        background-color: mistyrose;
+       }
+
+       .order-button-link {
+            /*style the order button*/
+            /*https://www.w3schools.com/html/html_css.asp*/
+            text-align: left;
+            background-color: transparent;
+            color: white;
+            border: 1px solid white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+       }
+
+        .order-button-link:hover {
+            background-color: mistyrose;
+        }
+  </style>
+</head>
+
+<body>
+    <!-- Input the text to be displayed on the webpage using <h>. The text will inherit its text properties from the classes -->
+  <h1 class="title">KhumaloCraft</h1>
+
+  <h2 class="services">
+    KhumaloCraft Emporium is an E-Commerce website that has helped numerous artisans around the world showcase their unique craftwork and sell it to consumers by providing them with a
+    user-friendly and secure platform which has changed the way they market their work. KhumaloCraft Emporium has also allowed artisans to expand their skills and learn new techniques from other,
+    like-minded artisans making their work more diverse.
+  </h2>
+  <h3 class="artGallery">KhumaloCraft Art Gallery</h3>
+  <div class="artGallery">
+        <!-- if the item table contains data, it will be shown-->
+        @if (Model != null)
+        {
+       
+            @if (Model.Any())
+
+            {
+                <p>Below is a list of all the available products created by skilled artisans around the world</p>
+                @foreach (var item in Model) @*foreach will loop for the number of items there are in the model and display them all*@
+                @*https://stackoverflow.com/questions/11488557/asp-net-mvc-displaying-database-table*@
+                @*https://www.youtube.com/watch?v=BWOcba-XfcM*@
+                {
+                    <div class="product-card">
+                        @*displays all the items in the database on product cards*@
+                        <p><b>Item Name:</b> @Html.DisplayFor(modelItem => item.ItemName)</p>
+                        <p><b>Item Category:</b> @Html.DisplayFor(modelItem => item.ItemCategory)</p>
+                        <p><b>Item Price: R</b> @Html.DisplayFor(modelItem => item.ItemPrice)</p>
+                        <p><b>Item Availability:</b> @Html.DisplayFor(modelItem => item.ItemAvailability)</p>
+                    </div>
+                }
+            }
+            else
+            {
+                <!-- if there are no items in the database, the following message will be displayed -->
+                <p class="artText">No products available at the moment. Please check back later.</p>
+            }
+        }
+        <!--create the advertise, order, and order history buttons-->
+    <div class="advertise-button">
+        <a asp-area="" asp-controller="Item" asp-action="Create" class="advertise-button-link">Advertise Your Products</a>
+    </div>
+
+    <div class="order-button">
+        <a asp-area="" asp-controller="Transactions" asp-action="Create" class="order-button-link">Place Order</a>
+    </div>
+
+    <div class="history-button">
+            <a asp-area="" asp-controller="Transactions" asp-action="Index" class="order-button-link">View Order Histroy</a>
+    </div>
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

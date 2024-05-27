@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\item\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\item\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|c:\\users\\hp\\downloads\\poe part 2.cldv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B2A2BBA-C744-4099-9F9C-58AD7BB49C51}|AuthSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:47:34.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:46:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:45:40.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:41:21.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Data\\AuthDBContext.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\AuthDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Data\\AuthDBContext.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\AuthDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:34:04.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:31:52.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T14:29:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:27:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:26:53.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:26:26.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:25:56.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:25:23.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:18:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Item\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:18:11.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Details.cshtml",
+              "RelativeToolTip": "Views\\Item\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:16:50.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Item\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:16:21.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "Views\\Item\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:13:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:51:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Work.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Home\\Work.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Work.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Views\\Home\\Work.cshtml",
+              "RelativeToolTip": "Views\\Home\\Work.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAIsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:50:50.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:50:30.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:50:10.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:49:43.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\POE part 2.CLDV\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-19T02:07:39.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

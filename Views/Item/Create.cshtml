@@ -1,0 +1,53 @@
+﻿
+@*scaffolded method 'create'*@
+@*https://www.youtube.com/watch?v=rTM6Q000cLw&t=1362s*@
+@*creates and stores the item in the database*@
+@model AuthSystem.Models.Item
+
+@{
+    ViewData["Title"] = "Upload Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Here, you can upload an art piece which you have created to KhumaloCraft</h1>
+
+<h4>Upload Art Piece</h4>
+<hr />
+@*create the itemname, itemcategory, itemprice, and itemavailability fields*@
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ItemName" class="control-label"></label>
+                <input asp-for="ItemName" class="form-control" />
+                <span asp-validation-for="ItemName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ItemCategory" class="control-label"></label>
+                <input asp-for="ItemCategory" class="form-control" />
+                <span asp-validation-for="ItemCategory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ItemPrice" class="control-label"></label>
+                <input asp-for="ItemPrice" class="form-control" />
+                <span asp-validation-for="ItemPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ItemAvailability" class="control-label"></label>
+                <input asp-for="ItemAvailability" class="form-control" />
+                <span asp-validation-for="ItemAvailability" class="text-danger"></span>
+            </div>
+            @*creates the submit button to store data in database*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
